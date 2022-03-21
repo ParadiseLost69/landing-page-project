@@ -1,0 +1,59 @@
+body {
+   
+}
+
+header {
+    display: flex;
+    
+}
+
+header ul {
+    display: flex;
+    flex:1 1 auto;
+    flex-wrap: wrap;
+    background-color: blanchedalmond;
+    justify-content: flex-end;
+    gap: 8px;
+    height: 100px;
+    
+}
+.Logo {
+    display:flex;
+    gap: 8px;
+    margin: 8px;
+}
+
+
+.section-one {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-two {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-three {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-four {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    display: flex;
+    flex: 1 1 20%;
+}
+
+
+ul {
+    color: black;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
